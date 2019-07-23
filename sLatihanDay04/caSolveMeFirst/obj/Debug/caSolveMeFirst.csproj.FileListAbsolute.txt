@@ -1,0 +1,6 @@
+D:\batch 205\Day04\sLatihanDay04\caSolveMeFirst\bin\Debug\caSolveMeFirst.exe.config
+D:\batch 205\Day04\sLatihanDay04\caSolveMeFirst\bin\Debug\caSolveMeFirst.exe
+D:\batch 205\Day04\sLatihanDay04\caSolveMeFirst\bin\Debug\caSolveMeFirst.pdb
+D:\batch 205\Day04\sLatihanDay04\caSolveMeFirst\obj\Debug\caSolveMeFirst.csprojResolveAssemblyReference.cache
+D:\batch 205\Day04\sLatihanDay04\caSolveMeFirst\obj\Debug\caSolveMeFirst.exe
+D:\batch 205\Day04\sLatihanDay04\caSolveMeFirst\obj\Debug\caSolveMeFirst.pdb
